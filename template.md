@@ -26,8 +26,8 @@ Passed
 
 The objective of this project was to recreate a static comp using HTML and CSS.
 
-* https://github.com/cah2858/ch-comp-challenge-1
-* http://frontend.turing.io/projects/m1-static-comp-1.html
+* [GitHub URL](https://github.com/cah2858/ch-comp-challenge-1)
+* [Original Assignment](http://frontend.turing.io/projects/m1-static-comp-1.html)
 
 We weren't too deep into the module yet, so I took this static comp as an opportunity to experiment with design. My biggest win was adding photos to the individual boxes on hover. This project also gave me an opportunity to learn CSS grid -- which I hadn't used before. 
 
@@ -37,8 +37,8 @@ Evaluation comments: Nice job adding opacity to the hover photos so that the ove
 
 The objective of this project was to recreate a static comp using HTML and CSS.
 
-* https://github.com/cah2858/ch-comp-challenge-2
-* http://frontend.turing.io/projects/m1-static-comp-2.html
+* [GitHub URL](https://github.com/cah2858/ch-comp-challenge-2)
+* [Original Assignment](http://frontend.turing.io/projects/m1-static-comp-2.html)
 
 Static Comp 2 gave me less trouble than Static Comp 1 thanks to Flexbox. I also spent much more time wireframing, so my code was easier to execute and I didn't end up backtracking and rewriting it as much. For this static comp I focused on recreating the comp exactly instead of taking design liberties. This helped train me to notice small details and figure out how to reproduce them exactly.
 
@@ -46,8 +46,8 @@ Evaluation comments: Icons are not as universally understood as one might think 
 
 #### Static Comp 3
 
-* https://github.com/cah2858/ch-comp-challenge--3
-* http://frontend.turing.io/projects/m1-static-comp-3.html
+* [GitHub URL](https://github.com/cah2858/ch-comp-challenge--3)
+* [Original Assignment](http://frontend.turing.io/projects/m1-static-comp-3.html)
 
 The objective of this project was to recreate a static comp using HTML and CSS.
 
@@ -63,8 +63,8 @@ Evaluation comments: Great organization of CSS, nice naming conventions, very we
 
 #### Linked List
 
-* https://github.com/brandido/linked-lists
-* http://frontend.turing.io/projects/linked-list.html
+* [GitHub URL](https://github.com/brandido/linked-lists)
+* [Original Assignment](http://frontend.turing.io/projects/linked-list.html)
 
 Linked List challenged us to build a small application including two input fields. Upon entering data on the right side, it would be appended to the right side. We also had to inculde buttons for removing the appended elements and changing their style. Overall, my partner and I executed the project well. We worked well together, and made a strong effort to get a handle on Git/GitHub. 
 
@@ -90,8 +90,8 @@ Proficient: Application meets all of the functional expectations in Phase Three.
 
 #### Idea Box
 
-* https://github.com/christopherchateau/ideabox
-* http://frontend.turing.io/projects/ideabox.html
+* [GitHub URL](https://github.com/christopherchateau/ideabox)
+* [Original Assignment](http://frontend.turing.io/projects/ideabox.html)
 
 This project built on the previous one. There were two input fields, a submit button and appended elements. There was more functionality as well. We were asked to imcorporate local storage and search/filter functionality. These new challenges pushed us, but Chris and I executed this project very well. We worked almost exclusively together and had fun with it. 
 
@@ -112,8 +112,8 @@ Proficient The application consists of one page with all of the major functional
 
 #### 2DoBox Pivot
 
-* https://github.com/gmasterofnone/2DoBox-Pivot
-* http://frontend.turing.io/projects/2DoBox-Pivot-Mod1.html
+* [GitHub URL](https://github.com/gmasterofnone/2DoBox-Pivot)
+* [Original Assignment](http://frontend.turing.io/projects/2DoBox-Pivot-Mod1.html)
 
 (description)
 
